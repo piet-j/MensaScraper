@@ -1,4 +1,4 @@
 # MensaScraper
-Testing Web Scraping by writing a python code using scrapy to get mensa information from imensa.de.
-The information about the meals was declared as not relevant.
-The output should be stored in a csv file.
+Dieses Projekt extrahiert automatisch Informationen deutscher Mensen von [imensa.de](https://www.imensa.de) mithilfe von Scrapy.
+- Tools: Python, Scrapy
+- Output: imensa_mensen.csv (Name, Straße, Stadt/PLZ, Sterne, Bewertungen)
